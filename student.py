@@ -1,3 +1,6 @@
+# Please Tayza include comments on each block of your code explaining the reason behind it.
+# Indicate the topic or new development that is introduced based on the topic covered 
+# I will choose the best ideas & then we'll work together  
 import email
 class Students:
     discount_amt = 200
